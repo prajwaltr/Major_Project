@@ -52,22 +52,12 @@ void printSolution(int dist[], int parent[], int destina,int src)  //print the r
     
     cout<<"\nSource "<<src<<" -> Detination "<<destina<<" \t Distance \t Path"<<endl;
     
-    if(src>destina)
-    {
-                    
-        char snode = 65+ src;
-        char node = 65 + destina; //converting from number to alphabets
-        cout<<"\n"<<snode<<"\t -> \t "<<node<<"\t\t  "<<dist[destina]<<"\t\t "<<snode;
-        printPath(parent, destina);
-    }
-    else
-    {
                   
-        char snode = 65+ src;
-        char node = 65 + destina; //converting from number to alphabets
-        cout<<"\n"<<snode<<"\t -> \t "<<node<<"\t\t  "<<dist[destina]<<"\t\t "<<snode;
-        printPath(parent, destina);     
-    }
+    char snode = 65+ src;
+    char node = 65 + destina; //converting from number to alphabets
+    cout<<"\n"<<snode<<"\t -> \t "<<node<<"\t\t  "<<dist[destina]<<"\t\t "<<snode;
+    printPath(parent, destina);     
+    
     
     cout<<"\n";
 }
