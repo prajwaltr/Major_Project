@@ -1,0 +1,137 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.5/examples
+T_opt
+!s110 1651849959
+Vj0?3472F8SOolmmo0TUee3
+Z1 04 4 4 work main fast 0
+=1-f8b46aae126f-62753ae7-a0-439c
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;10.5;63
+R0
+T_opt1
+!s110 1651576580
+VVZ76<_@Q]ZVj_<O[4k7W23
+R1
+=1-f8b46aae126f-62710f04-6d-3a28
+R2
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1651604262
+VAR@@kFAX@4B`9f=mbQh7U2
+R1
+=1-f8b46aae126f-62717b26-256-3b10
+R2
+R3
+n@_opt2
+R4
+R0
+vdijkstra
+Z5 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z6 !s110 1651849779
+!i10b 1
+!s100 >1XY36;TCBeAW`Ob@h@iz0
+If7ebznen04X_mg^5=W<^g1
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 !s105 code1_sv_unit
+S1
+Z9 dD:/Final_year_project/code/Major_Project/VeilogCode
+Z10 w1651849774
+Z11 8D:/Final_year_project/code/Major_Project/VeilogCode/code1.sv
+Z12 FD:/Final_year_project/code/Major_Project/VeilogCode/code1.sv
+L0 88
+Z13 OL;L;10.5;63
+r1
+!s85 0
+31
+Z14 !s108 1651849779.000000
+Z15 !s107 D:/Final_year_project/code/Major_Project/VeilogCode/code1.sv|
+Z16 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Final_year_project/code/Major_Project/VeilogCode/code1.sv|
+!i113 0
+Z17 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vmain
+R5
+!s110 1651851600
+!i10b 1
+!s100 Sb9Yo<e[MX>UG:JZa4[]G3
+I[2H^bOU@8^=L3MAjKi3Ta2
+R7
+R8
+S1
+R9
+w1651851597
+R11
+R12
+L0 1
+R13
+r1
+!s85 0
+31
+!s108 1651851600.000000
+R15
+R16
+!i113 0
+R17
+R3
+vprint
+R5
+R6
+!i10b 1
+!s100 H4oWJb0_]YzN2;k4ZdG>40
+IbEEUefJEZi?nOj?00f4TN2
+R7
+R8
+S1
+R9
+R10
+R11
+R12
+L0 143
+R13
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 0
+R17
+R3
+vrandGen
+R5
+!s110 1651670977
+!i10b 1
+!s100 ^4Mak^jdPl]10efXA2R4a1
+IeHGVbf1_NF@LJmN;Glf050
+R7
+R8
+S1
+R9
+w1651670938
+R11
+R12
+L0 171
+R13
+r1
+!s85 0
+31
+!s108 1651670977.000000
+R15
+R16
+!i113 0
+R17
+R3
+nrand@gen

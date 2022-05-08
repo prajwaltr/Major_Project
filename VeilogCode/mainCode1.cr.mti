@@ -1,0 +1,13 @@
+D:/Final_year_project/code/Major_Project/VeilogCode/copy.v {0 {vlog -work work -vopt -stats=none D:/Final_year_project/code/Major_Project/VeilogCode/copy.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module main
+** Error: (vlog-13032) D:/Final_year_project/code/Major_Project/VeilogCode/copy.v(3): near ";": Syntax error.
+** Error: (vlog-13032) D:/Final_year_project/code/Major_Project/VeilogCode/copy.v(4): near "=": Syntax error.
+-- Compiling module dijkstra
+** Error: (vlog-13069) D:/Final_year_project/code/Major_Project/VeilogCode/copy.v(89): near "graph": syntax error, unexpected IDENTIFIER, expecting ')'.
+** Error: (vlog-13036) D:/Final_year_project/code/Major_Project/VeilogCode/copy.v(100): near "++": Operator only allowed in SystemVerilog.
+** Error: (vlog-13036) D:/Final_year_project/code/Major_Project/VeilogCode/copy.v(114): near "++": Operator only allowed in SystemVerilog.
+** Error: (vlog-13036) D:/Final_year_project/code/Major_Project/VeilogCode/copy.v(120): near "++": Operator only allowed in SystemVerilog.
+** Error: (vlog-13036) D:/Final_year_project/code/Major_Project/VeilogCode/copy.v(126): near "++": Operator only allowed in SystemVerilog.
+
+} {4.0 6.0 7.0 12.0} {}}
